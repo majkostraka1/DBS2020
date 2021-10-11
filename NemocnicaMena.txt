@@ -1,0 +1,98 @@
+Nemocnica sv. Adama
+Nemocnica sv. Alžbety
+Nemocnica sv. Abigaily
+Nemocnica sv. Anny
+Nemocnica sv. Barabáša
+Nemocnica sv. Cecilie
+Nemocnica sv. Daniela
+Nemocnica sv. Dávida
+Nemocnica sv. Dionýza
+Nemocnica sv. Ester
+Nemocnica sv. Jakoba
+Nemocnica sv. Jána
+Nemocnica sv. Ježiša
+Nemocnica sv. Jozefa
+Nemocnica sv. Kristíny
+Nemocnica sv. Lucie
+Nemocnica sv. Magdalény
+Nemocnica sv. Marcely
+Nemocnica sv. Márie
+Nemocnica sv. Mateja
+Nemocnica sv. Matúša
+Nemocnica sv. Michala
+Nemocnica sv. Michala
+Nemocnica sv. Ondreja
+Nemocnica sv. Pavla
+Nemocnica sv. Petra
+Nemocnica sv. Rebeky
+Nemocnica sv. Samuela
+Nemocnica sv. Tomáša
+Nemocnica sv. Timoteja
+Nemocnica sv. Veroniky
+Ústredná vojenská nemocnica SNP
+Ústredná vojenská nemocnica SNP
+Ústredná vojenská nemocnica SNP
+Ústredná vojenská nemocnica SNP
+Ústredná vojenská nemocnica SNP
+Ústredná vojenská nemocnica SNP
+Ústredná vojenská nemocnica SNP
+Ústredná vojenská nemocnica SNP
+Ústredná vojenská nemocnica SNP
+Ústredná vojenská nemocnica SNP
+Vojenská nemocnica
+Vojenská nemocnica
+Vojenská nemocnica
+Vojenská nemocnica
+Vojenská nemocnica
+Vojenská nemocnica
+Vojenská nemocnica
+Vojenská nemocnica
+Univerzitná nemocnica
+Univerzitná nemocnica
+Univerzitná nemocnica
+Univerzitná nemocnica
+Univerzitná nemocnica
+Univerzitná nemocnica
+Univerzitná nemocnica
+Univerzitná nemocnica
+Klinika
+Klinika
+Klinika
+Klinika
+Klinika
+Klinika
+Klinika
+Poliklinika
+Poliklinika
+Poliklinika
+Poliklinika
+Poliklinika
+Poliklinika
+Poliklinika
+Poliklinika
+Poliklinika
+Poliklinika
+Poliklinika
+Poliklinika
+Fakultná nemocnica
+Fakultná nemocnica
+Fakultná nemocnica
+Fakultná nemocnica
+Fakultná nemocnica
+Fakultná nemocnica
+Fakultná nemocnica
+Fakultná nemocnica
+Fakultná nemocnica s poliklinikou
+Fakultná nemocnica s poliklinikou
+Nemocnica s poliklinikou
+Nemocnica s poliklinikou
+Detská fakultná nemocnica
+Detská fakultná nemocnica
+Detská fakultná nemocnica
+Detská fakultná nemocnica
+Detská fakultná nemocnica
+Detská fakultná nemocnica
+Všeobecná nemocnica
+Všeobecná nemocnica
+Všeobecná nemocnica
+Všeobecná nemocnica

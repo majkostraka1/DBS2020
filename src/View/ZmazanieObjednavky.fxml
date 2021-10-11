@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" prefHeight="154.0" prefWidth="424.0" xmlns="http://javafx.com/javafx/8.0.171" xmlns:fx="http://javafx.com/fxml/1" fx:controller="controllers.ZrusenieObjednavkyController">
+   <padding>
+      <Insets bottom="10.0" left="10.0" right="10.0" top="10.0" />
+   </padding>
+   <children>
+      <Button layoutX="304.0" layoutY="164.0" mnemonicParsing="false" onAction="#Zrus_objednavku" text="Potvrdiť" />
+      <Label layoutX="44.0" layoutY="47.0" text="Číslo poistenca" />
+      <Label layoutX="44.0" layoutY="102.0" text="Dátum objednania" />
+      <TextField fx:id="cislo_poistenca" layoutX="191.0" layoutY="42.0" />
+      <TextField fx:id="datum_objednania" layoutX="191.0" layoutY="97.0" />
+      <Button layoutX="44.0" layoutY="164.0" mnemonicParsing="false" onAction="#VratSpat" prefHeight="31.0" prefWidth="74.0" text="Späť" />
+   </children>
+</AnchorPane>

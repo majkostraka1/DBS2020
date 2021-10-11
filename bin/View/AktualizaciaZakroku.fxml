@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" prefHeight="350.0" prefWidth="360.0" xmlns="http://javafx.com/javafx/8.0.171" xmlns:fx="http://javafx.com/fxml/1" fx:controller="controllers.AktualizaciaZakrokuController">
+   <padding>
+      <Insets bottom="20.0" left="20.0" right="20.0" top="20.0" />
+   </padding>
+   <children>
+      <Button layoutX="254.0" layoutY="290.0" mnemonicParsing="false" onAction="#aktualizuj" text="Aktualizuj" />
+      <Button layoutX="30.0" layoutY="290.0" mnemonicParsing="false" onAction="#VratSpat" text="Späť" />
+      <TextField fx:id="rodne_cislo" layoutX="152.0" layoutY="30.0" />
+      <TextField fx:id="datum" layoutX="152.0" layoutY="80.0" />
+      <Label layoutX="30.0" layoutY="35.0" prefHeight="21.0" prefWidth="105.0" text="Číslo poistenca" />
+      <Label layoutX="30.0" layoutY="85.0" text="Dátum objednania" />
+      <TextField fx:id="cislo_izby" layoutX="152.0" layoutY="130.0" />
+      <Label layoutX="30.0" layoutY="135.0" text="Číslo izby" />
+      <TextField fx:id="nemocnica" layoutX="152.0" layoutY="180.0" />
+      <TextField fx:id="oddelenie" layoutX="152.0" layoutY="230.0" />
+      <Label layoutX="30.0" layoutY="185.0" text="Meno nemocnice" />
+      <Label layoutX="30.0" layoutY="235.0" text="Oddelenie" />
+   </children>
+</AnchorPane>

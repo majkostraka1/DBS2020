@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane fx:id="cislo_poistenca" maxHeight="-Infinity" maxWidth="-Infinity" prefHeight="391.0" prefWidth="470.0" xmlns="http://javafx.com/javafx/8.0.171" xmlns:fx="http://javafx.com/fxml/1" fx:controller="controllers.PridanieZakrokuController">
+   <opaqueInsets>
+      <Insets />
+   </opaqueInsets>
+   <padding>
+      <Insets bottom="20.0" right="20.0" top="20.0" />
+   </padding>
+   <children>
+      <Button layoutX="66.0" layoutY="305.0" mnemonicParsing="false" onAction="#VratSpat" text="Späť" />
+      <TextField fx:id="datum" layoutX="231.0" layoutY="67.0" />
+      <TextField fx:id="meno" layoutX="231.0" layoutY="114.0" />
+      <TextField fx:id="oddelenie" layoutX="231.0" layoutY="165.0" />
+      <TextField fx:id="cislo" layoutX="231.0" layoutY="260.0" />
+      <Button layoutX="353.0" layoutY="305.0" mnemonicParsing="false" onAction="#Prihlas" text="Prihlás" />
+      <Label layoutX="66.0" layoutY="72.0" text="Dátum zákroku" />
+      <Label layoutX="66.0" layoutY="119.0" text="Meno nemocnice" />
+      <Label layoutX="66.0" layoutY="170.0" text="Oddelenie" />
+      <Label layoutX="67.0" layoutY="265.0" text="Číslo poistenca" />
+      <TextField fx:id="miestnost" layoutX="231.0" layoutY="212.0" promptText="volitelné" />
+      <Label layoutX="67.0" layoutY="217.0" text="Miestnosť" />
+   </children>
+</AnchorPane>
